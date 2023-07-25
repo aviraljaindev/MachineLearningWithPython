@@ -27,5 +27,5 @@ Outcome: Class variable (0 or 1)
 
 
 # Note - You can use your data to predict future events with the help of machine learning. 
-# This project involves creating a machine learning prediction solution with Python, the scikit-learn library, Pandas, NumPy and the Jupyter Notebook environment.
+**This project involves creating a machine learning prediction solution with Python, the scikit-learn library, Pandas, NumPy and the Jupyter Notebook environment.**
 
